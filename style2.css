@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+header {
+    background-color: red;
+    color: black;
+    height: 80px;
+    margin: 0;
+  }
+
+  
+.banner {
+    background-size: cover;
+    background-image: url("./apexlogo1.jpg");
+  }
+
+  .banner img {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 150px;
+    height: auto;
+  }
